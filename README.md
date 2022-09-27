@@ -20,7 +20,7 @@
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-![image](https://user-images.githubusercontent.com/114081497/192352870-d183684a-6693-4c0b-b7f7-8275cf1f0554.png)
+
 
 
 Структура отчета
@@ -45,7 +45,7 @@
 - Произвести подготовку данных для работы с алгоритмом линейной регрессии. 10 видов данных были установлены случайным образом, и данные находились в линейной зависимости. Данные преобразуются в формат массива, чтобы их можно было вычислить напрямую при использовании умножения и сложения.
 
 ![image](https://user-images.githubusercontent.com/114081497/192349053-e455efc6-3389-4f29-acc7-7294beddd0c5.png)
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/114081497/192530935-0c930fae-a65c-43b3-afe5-7e3ededff772.png)
 
 
 
